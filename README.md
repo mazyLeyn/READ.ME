@@ -1,4 +1,4 @@
-# Selam! Ben [Adın Soyadın] 👋
+# Selam! Ben [Onur Karataş] 👋
 
 ### 👨‍💻 Hakkımda
 - 🎓 Şu an kendimi yazılım dünyasında geliştiriyorum.
