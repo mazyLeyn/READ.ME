@@ -11,9 +11,8 @@
 - 🎯 Amacım, Python ile backend mantığını, JS ile frontend dinamikliğini birleştirerek tam donanımlı bir geliştirici olmak.
 <div align="center">
 
-
+----
   
-
 ### 🛠 Yetkinlikler & Hedefler
 
 | Mevcut Teknolojiler | Öğrendiğim / Hedeflediğim |
@@ -22,5 +21,5 @@
 | ![Git9m ](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=  Python+Geliştirici;  JavaScript+Öğrencisi;  Sürekli+Öğrenen+Bir+Yazılımcı" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Python+Geliştirici;JavaScript+Öğrencisi;Sürekli+Öğrenen+Bir+Yazılımcı" alt="Typing SVG" />
 </div>
