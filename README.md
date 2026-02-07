@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Selam,%20Ben%20[İsmin]!&fontSize=70&animation=fadeIn&fontAlignY=38)
+![Onur](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Selam,%20Ben%20[İsmin]!&fontSize=70&animation=fadeIn&fontAlignY=38)
 # Selam! Ben [Onur Karataş] 👋
 
 ### 👨‍💻 Hakkımda
