@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Python+Geliştirici;JavaScript+Öğrencisi;Sürekli+Öğrenen+Bir+Yazılımcı" alt="Typing SVG" />
+</div>
+
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Selam,%20Ben%20[Onur]!&fontSize=70&animation=fadeIn&fontAlignY=38)
 # Selam! Ben [Onur Karataş] 👋
 
