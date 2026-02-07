@@ -1,8 +1,5 @@
 
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Python+Geliştirici;JavaScript+Yolcusu;Kod+Yazmayı+Seviyor" />
-</div>
-
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Selam,%20Ben%20[Onur]!&fontSize=70&animation=fadeIn&fontAlignY=38)
 
 # Selam! Ben [Onur Karataş] 👋
@@ -12,9 +9,12 @@
 - 🐍 **Python** dilinde temel yetkinliğe sahibim ve projeler geliştiriyorum.
 - 🚀 Şu anki ana hedefim: **JavaScript** dünyasına adım atmak ve web teknolojilerini öğrenmek.
 - 🎯 Amacım, Python ile backend mantığını, JS ile frontend dinamikliğini birleştirerek tam donanımlı bir geliştirici olmak.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=[İsmin]%20GitHub&fontSize=70&animation=fadeIn&fontAlignY=38" />
 
----  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Python+Geliştirici;JavaScript+Yolcusu;Kod+Yazmayı+Seviyor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Python+Geliştirici;JavaScript+Yolcusu;Kod+Yazmayı+Seviyor" />
 </div>
+
 
 ### 🛠 Yetkinlikler & Hedefler
 
