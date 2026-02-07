@@ -10,6 +10,8 @@
 - 🚀 Şu anki ana hedefim: **JavaScript** dünyasına adım atmak ve web teknolojilerini öğrenmek.
 - 🎯 Amacım, Python ile backend mantığını, JS ile frontend dinamikliğini birleştirerek tam donanımlı bir geliştirici olmak.
 <div align="center">
+
+
   
 
 ### 🛠 Yetkinlikler & Hedefler
