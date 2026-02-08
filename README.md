@@ -5,7 +5,7 @@
 # Selam! Ben [Onur Karataş] 👋
 
 ### 👨‍💻 Hakkımda
-- 🎓 Şu an kendimi yazılım dünyasında geliştiriyorum.
+- 🎓 Şu an kendimi yazılım dünyasında yapay zekadan destek alarak geliştiriyorum.
 - 🐍 **Python** dilinde temel yetkinliğe sahibim ve projeler geliştiriyorum.
 - 🚀 Şu anki ana hedefim: **JavaScript** dünyasına adım atmak ve web teknolojilerini öğrenmek.
 - 🎯 Amacım, Python ile backend mantığını, JS ile frontend dinamikliğini birleştirerek tam donanımlı bir geliştirici olmak.
