@@ -2,7 +2,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Selam,%20Ben%20[Onur]!&fontSize=70&animation=fadeIn&fontAlignY=38)
 
-# Selam! Ben [Onur Karataş] 👋
+# Selam! Ben Onur Karataş 👋
 
 ### 👨‍💻 Hakkımda
 - 🎓 Şu an kendimi yazılım dünyasında yapay zekadan destek alarak geliştiriyorum.
